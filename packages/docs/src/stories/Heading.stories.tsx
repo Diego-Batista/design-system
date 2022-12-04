@@ -10,17 +10,7 @@ export default {
   },
   argTypes: {
     size: {
-      options: [
-        '$xxs',
-        '$xs',
-        '$sm',
-        '$md',
-        '$lg',
-        '$2xl',
-        '$4xl',
-        '$5xl',
-        '$6xl',
-      ],
+      options: ['xxs', 'xs', 'sm', 'md', 'lg', '2xl', '4xl', '5xl', '6xl'],
       control: {
         type: 'inline-radio',
       },
