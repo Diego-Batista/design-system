@@ -1,0 +1,2 @@
+import{A as t}from"./index.1500ddc7.js";import"./index.d48d1391.js";import"./iframe.ba061eb4.js";import"./index.a6607809.js";import"./jsx-runtime.3fd0f76a.js";const p={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/Diego-Batista.png",alt:"Diego Batista"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WhithFallback"];export{c as Primary,e as WhithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.d73aef0c.js.map
